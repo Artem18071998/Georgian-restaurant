@@ -2,19 +2,9 @@ body {
     margin: 0;
 }
 
-.wrapper {
-    position: relative;
-    padding: 0 40px;
-    margin-left: auto;
-    margin-right: auto;
-    max-width: 1440px;
-    height: 4170px;
-}
-
 .main {
     position: relative;
-    right: 40px;
-    width: 106%;
+    width: 1440px;
     height: 800px;
     background: no-repeat url(images/Rectangle1.svg);
 }
