@@ -31,6 +31,7 @@ body {
 }
 
 .menu__link {
+    padding-right: 60px;
     font: 500 16px/22px Noto Sans, helvetica, sans-serif;
     color: #ffffff;
     text-decoration: none;
