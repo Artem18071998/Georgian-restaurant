@@ -3,6 +3,8 @@ body {
 }
 
 .main {
+    width: 100%;
+    height: 800px;
     background: no-repeat url(images/Rectangle1.svg);
 }
 
