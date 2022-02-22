@@ -1,0 +1,24 @@
+{
+  "name": "georgian-restaurant",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "start.bat",
+    "start-ps": "start.ps1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Artem18071998/Georgian-restaurant.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Artem18071998/Georgian-restaurant/issues"
+  },
+  "homepage": "https://github.com/Artem18071998/Georgian-restaurant#readme",
+  "devDependencies": {
+    "browser-sync": "^2.27.7"
+  }
+}
